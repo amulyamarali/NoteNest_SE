@@ -1,3 +1,13 @@
+# WEB Extension 
+<img width="356" alt="image" src="https://github.com/amulyamarali/NoteNest_SE/assets/97819763/8431929f-daf5-4137-8639-360dad283b94">
+<img width="894" alt="image" src="https://github.com/amulyamarali/NoteNest_SE/assets/97819763/1eee51e4-5aad-4419-b53b-032429ece37f">
+<img width="1257" alt="image" src="https://github.com/amulyamarali/NoteNest_SE/assets/97819763/2bea545e-5155-4b16-9ee0-7fa1696148c7">
+
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
